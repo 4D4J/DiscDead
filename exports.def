@@ -8,3 +8,5 @@ GetFileVersionInfoA=MyGetFileVersionInfoA
 VerQueryValueA=MyVerQueryValueA
 VerLanguageNameW=MyVerLanguageNameW
 VerLanguageNameA=MyVerLanguageNameA
+GetFileVersionInfoSizeExW=MyGetFileVersionInfoSizeExW
+GetFileVersionInfoExW=MyGetFileVersionInfoExW
